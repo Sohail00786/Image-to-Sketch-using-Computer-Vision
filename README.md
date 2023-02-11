@@ -5,7 +5,7 @@
 #### Orginal
 ![Logo]()
 #### Result
-![Logo]()
+![Logo](https://github.com/Sohail00786/Image-to-Sketch-using-Computer-Vision/blob/1894da9e2731a2dfd2fb76b28de42fe49f22cdeb/33471CC8-6FCA-42BC-9A98-F3B045B13D62.jpeg)
 ### Requirement
 For this project, you only need:
 - OpenCV
