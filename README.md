@@ -1,7 +1,7 @@
 ## Code Clause : Image-to-Sketch-using-Computer-Vision
 ### Project Description
 - In this project, user inserts an image of anytype and it converts the image into its sketch. This is done using opencv-python. All the files have been commented for your ease. Furthermore you may also add further comments if you may.
-### Result
+## Result
 ### Orginal
 ![Logo](https://github.com/Sohail00786/Image-to-Sketch-using-Computer-Vision/blob/d10017b937fa895a671fef7f02c8d139484ba823/34FA9F29-33E4-4984-B191-F095922D711D.jpeg)
 ### Sketch
